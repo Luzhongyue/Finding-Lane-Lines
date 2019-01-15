@@ -4,7 +4,7 @@
 
 [*Video1*](https://github.com/Luzhongyue/Finding-Lane-Lines/blob/master/test_videos_output/solidWhiteRight.mp4)\
 [*Video2*](https://github.com/Luzhongyue/Finding-Lane-Lines/blob/master/test_videos_output/solidYellowLeft.mp4)
-
+![](https://github.com/Luzhongyue/Finding-Lane-Lines/blob/master/test_videos_output/solidWhiteRight.mp4)
 Overview
 ---
 
